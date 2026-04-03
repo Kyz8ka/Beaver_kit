@@ -9,7 +9,7 @@
 
 ---
 
-### 🛡 Полная анонимность • 🧠 Собственный ИИ • 🌐 VPN + Tor • 🧩 ShadowSocks • 🕵️ DPI-обход
+###  • 🌐 parser + Tor • ShadowSocks • 🕵️ DPI-обход •
 
 </div>
 
@@ -58,3 +58,4 @@
 
 # 🧰 Бесплатный ключ для теста
 ## free_322
+# @beaver_kit
