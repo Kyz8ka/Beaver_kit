@@ -2,8 +2,10 @@
 
 # 🦫 BEAVERKIT  
 ### Швейцарский нож для OSINT, анонимности и киберразведки
-<img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/skrin.png" width="100%">
-<img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/skrin2.png" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/skrin.png" width="32%">
+  <img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/skrin2.png" width="32%">
+</div>
 
 ---
 
