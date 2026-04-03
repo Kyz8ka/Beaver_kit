@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🦫 BEAVERKIT  
-### Швейцарский нож для OSINT, анонимности и киберразведки
+### beaverkit это Швейцарский нож среди OSINT инструментов 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kyz8ka/Beaver_kit/main/skrin.png" width="32%">
   <img src="https://raw.githubusercontent.com/Kyz8ka/Beaver_kit/main/skrin2.png" width="32%">
@@ -58,4 +58,4 @@
 
 # 🧰 Бесплатный ключ для теста
 ## free_322
-# telegram t.me/beaver_kit
+# telegram https://t.me/beaver_kit
