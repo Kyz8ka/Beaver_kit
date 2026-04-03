@@ -3,7 +3,7 @@
 # 🦫 BEAVERKIT  
 ### Швейцарский нож для OSINT, анонимности и киберразведки
 
-<img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/baner.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/kyz8ka/kyz8ka/main/skrin.jpg" width="100%">
 
 ---
 
