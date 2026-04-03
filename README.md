@@ -58,4 +58,4 @@
 
 # 🧰 Бесплатный ключ для теста
 ## free_322
-# @beaver_kit
+# telegram t.me/beaver_kit
