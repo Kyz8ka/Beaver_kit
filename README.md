@@ -133,7 +133,7 @@ install.sh          # Установщик Linux/macOS
 
 | Пакет | Зачем |
 |-------|-------|
-| `PyQt6` | GUI |            воч демо
+| `PyQt6` | GUI |          воч демо
 | `requests` | HTTP-запросы / API               |
 | `psutil` | Мониторинг CPU/RAM                 |
 | `beautifulsoup4` | Парсинг HTML (опционально) |
@@ -147,5 +147,5 @@ install.sh          # Установщик Linux/macOS
 ## free_322
 все данные из открытых источников. Соответствует ФЗ-152 (РФ).
 структура проэкта засекречена по этому бил 1 файлом 
-**© 2025–2026 Beaver & Kit · [ t.me/Beaver_kit ] (https://t.me/Beaver_kit)**
+**© 2025–2026 Beaver & Kit · [t.me/Beaver_kit] (https://t.me/Beaver_kit)**
 проэкт был создан kyzka :3 
