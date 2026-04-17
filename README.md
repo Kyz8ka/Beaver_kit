@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🦫 BEAVER_KIT  
-### Beaver_Kit это Комбайн нож среди OSINT инструментов 
+### Beaver_Kit это швейцарский нож среди OSINT инструментов 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kyz8ka/Beaver_kit/main/skrin.png" width="32%">
   <img src="https://raw.githubusercontent.com/Kyz8ka/Beaver_kit/main/skrin2.png" width="32%">
